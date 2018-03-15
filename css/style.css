@@ -1,0 +1,20 @@
+.plugin_table {
+    max-width: 500px;
+    margin-bottom: 0;
+}
+
+.plugin_table tbody tr {
+text-align: center;
+}
+
+.plugin_table tbody tr th, .plugin_table tbody tr td {
+    border: 2px solid;
+}
+
+.time {
+    width: 40%;
+}
+
+.binance, .bitstamp, .average {
+    width: 20%;
+}
